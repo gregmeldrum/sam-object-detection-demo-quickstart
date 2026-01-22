@@ -128,4 +128,4 @@ The web interface will be available at `http://localhost:8000` (configurable via
 
 ## Next Steps
 
-Now that you have Solace Agent Mesh running, proceed to [Installing Agents](./installing-agents) to set up the agents needed for the demo.
+Now that you have Solace Agent Mesh running, proceed to [Installing Agents](/docs/installing-agents) to set up the agents needed for the demo.
