@@ -44,12 +44,11 @@ If you're using a paid LLM provider like OpenAI, Anthropic, or Azure OpenAI, use
 sam init --gui
 ```
 
-This launches a web-based configuration interface on port 5002 that walks you through:
-- Configuring your AI model credentials
-- Setting up the Solace event broker connection
-- Configuring gateways and other options
+This launches a web-based configuration interface on port 5002. When the page loads:
 
-Follow the prompts to enter your API keys and configuration.
+1. Choose the **"Get Started Quickly"** path
+2. Enter your AI model credentials (API endpoint, key, and model)
+3. Continue to the next step
 
   </TabItem>
   <TabItem value="free" label="Free Provider (Cerebras, Mistral)">
